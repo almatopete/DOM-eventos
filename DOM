@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datos>
+    <registro>
+        <nombre>John Doe</nombre>
+        <edad>30</edad>
+        <ciudad>New York</ciudad>
+    </registro>
+    <registro>
+        <nombre>Jane Smith</nombre>
+        <edad>25</edad>
+        <ciudad>Los Angeles</ciudad>
+    </registro>
+    <registro>
+        <nombre>Michael Johnson</nombre>
+        <edad>35</edad>
+        <ciudad>Chicago</ciudad>
+    </registro>
+    <registro>
+        <nombre>Sarah Williams</nombre>
+        <edad>28</edad>
+        <ciudad>Houston</ciudad>
+    </registro>
+    <registro>
+        <nombre>David Brown</nombre>
+        <edad>27</edad>
+        <ciudad>Miami</ciudad>
+    </registro>
+    <registro>
+        <nombre>Emily Davis</nombre>
+        <edad>32</edad>
+        <ciudad>San Francisco</ciudad>
+    </registro>
+    <registro>
+        <nombre>William Lee</nombre>
+        <edad>29</edad>
+        <ciudad>Denver</ciudad>
+    </registro>
+    <registro>
+        <nombre>Olivia Harris</nombre>
+        <edad>31</edad>
+        <ciudad>Seattle</ciudad>
+    </registro>
+    <registro>
+        <nombre>James Wilson</nombre>
+        <edad>33</edad>
+        <ciudad>Boston</ciudad>
+    </registro>
+    <registro>
+        <nombre>Ava Martin</nombre>
+        <edad>26</edad>
+        <ciudad>Phoenix</ciudad>
+    </registro>
+    <registro>
+        <nombre>Benjamin Taylor</nombre>
+        <edad>34</edad>
+        <ciudad>Philadelphia</ciudad>
+    </registro>
+    <registro>
+        <nombre>Emma Clark</nombre>
+        <edad>29</edad>
+        <ciudad>Las Vegas</ciudad>
+    </registro>
+    <registro>
+        <nombre>Aiden Anderson</nombre>
+        <edad>28</edad>
+        <ciudad>Dallas</ciudad>
+    </registro>
+    <registro>
+        <nombre>Charlotte White</nombre>
+        <edad>30</edad>
+        <ciudad>Atlanta</ciudad>
+    </registro>
+    <registro>
+        <nombre>Mason Hall</nombre>
+        <edad>32</edad>
+        <ciudad>San Diego</ciudad>
+    </registro>
+    <registro>
+        <nombre>Grace Rodriguez</nombre>
+        <edad>27</edad>
+        <ciudad>Washington D.C.</ciudad>
+    </registro>
+    <registro>
+        <nombre>Ethan Miller</nombre>
+        <edad>31</edad>
+        <ciudad>Portland</ciudad>
+    </registro>
+    <registro>
+        <nombre>Liam Garcia</nombre>
+        <edad>25</edad>
+        <ciudad>Detroit</ciudad>
+    </registro>
+    <registro>
+        <nombre>Isabella Martinez</nombre>
+        <edad>29</edad>
+        <ciudad>Minneapolis</ciudad>
+    </registro>
+    <registro>
+        <nombre>Chloe Lopez</nombre>
+        <edad>33</edad>
+        <ciudad>Raleigh</ciudad>
+    </registro>
+</datos>
